@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 This repository is for introducing myself.
 
 My name is Yewon Lee.
-
 I live in Seoul, South Korea.
 
 I got bachelor's degree at Department of Engineering at Sogang University, South Korea.
