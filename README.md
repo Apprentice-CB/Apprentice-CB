@@ -20,8 +20,8 @@ This repository is for introducing myself.
 My name is Yewon Lee.
 I live in Seoul, South Korea.
 
-I got bachelor's degree at Department of Engineering at Sogang University, South Korea.
-And I got master's degree at Signal Processing Systems. Lab (Advisor: Tai-kyong Song) at Sogang University (Graduated at 2023.02).
+I got bachelor's degree at Department of Electronic Engineering at Sogang University, South Korea.
+And I got master's degree at Signal Processing Systems. Lab (Advisor: Tai-kyong Song) at Sogang University (Department of EE), (Graduated at 2023.02).
 My research field at master's course is ultrasound signal processing and system design.
 
 My interests are H/W design (including HDL coding and PCB and circuit schematic design), embedded systems (especially MCUs like Cortex M3), and parallel processings (CUDA, openCL, etc...).
