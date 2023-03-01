@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This repository is for introducing myself.
+
+My name is Yewon Lee.
+I live in Seoul, South Korea.
+
+I got bachelor's degree at Department of Engineering at Sogang University, South Korea.
+And I got master's degree at Signal Processing Systems. Lab (Advisor: Tai-kyong Song) at Sogang University (Graduated at 2023.03).
+
+Now I'm currently working on S/W Developement Team in CTO division, LG Innotek.
