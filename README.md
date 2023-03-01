@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Apprentice-CB/Apprentice-CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 This repository is for introducing myself.
 
 My name is Yewon Lee.
@@ -33,5 +18,6 @@ Now I'm currently working on S/W Developement Team in CTO division, LG Innotek (
 My current field is real-time implementation of deep learning networks in embedded systems.
 
 
+I am ready to work with new people and new fields. 
 Contact me : "yewon0612@gmail.com"
 
